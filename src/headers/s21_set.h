@@ -1,8 +1,6 @@
 #ifndef S21_SET_H_
 #define S21_SET_H_
 
-#include <functional>
-
 #include "s21_rbtree.h"
 
 namespace s21 {

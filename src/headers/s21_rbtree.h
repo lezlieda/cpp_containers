@@ -1,10 +1,6 @@
 #ifndef S21_RBTREE_H_
 #define S21_RBTREE_H_
 
-#include <functional>
-#include <limits>
-#include <vector>
-
 namespace s21 {
 
 template <typename Key, typename Compare = std::less<Key>>

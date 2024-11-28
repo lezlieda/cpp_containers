@@ -1,7 +1,5 @@
-#ifndef S21_MUULTISET_
-#define S21_MUULTISET_
-
-#include <functional>
+#ifndef S21_MULTISET_
+#define S21_MULTISET_
 
 #include "s21_rbtree.h"
 
@@ -155,4 +153,4 @@ class multiset {
 
 }  // namespace s21
 
-#endif  // S21_MUULTISET_
+#endif  // S21_MULTISET_

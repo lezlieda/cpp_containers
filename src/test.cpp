@@ -1,15 +1,6 @@
 #include <gtest/gtest.h>
 
-#include <array>
 #include <fstream>
-#include <iostream>
-#include <list>
-#include <map>
-#include <queue>
-#include <set>
-#include <stack>
-#include <string>
-#include <vector>
 
 #include "s21_containers.h"
 
